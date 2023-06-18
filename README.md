@@ -1,4 +1,4 @@
-### Hi, I'm Atin 👋
+# Hi, I'm Atin 👋
 
 --------------------------------------------------------------------------------------
 *  🔭 I’m currently working on some project on AI and Ml 
