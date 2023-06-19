@@ -1,6 +1,6 @@
 # Hi, I'm Atin 👋
 --------------------------------------------------------------------------------------
-*  🔭 I’m currently working on some project oriented in AI and Ml 
+*  🔭 I’m currently working on some project oriented in AI and ML 
 *  🌱 I’m currently learning Computer Science and Engineering Dept. at Jis University <img src="https://github.com/atinbera/atinbera/assets/92203879/44e619ca-59ea-4950-86b7-f201fe318058" height='300' width='450' align='right'>
 *  💬 Ask me about python, Artificial Intelligence , Machine Learning
 *  📫 How to reach me: atinb.cse.jisu21@gmail.com
